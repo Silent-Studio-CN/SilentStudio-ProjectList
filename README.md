@@ -4,9 +4,11 @@
 > We apologize for the languages that are not yet supported.
 
 <details>
-<summary>🌐 已支持语言 | Supported Languages</summary>
+<summary>🌐 Supported Languages</summary>
 
 - [en_US](https://github.com/Silent-Studio-CN/SilentStudio-ProjectList/tree/main/en_US) · English (US)
+- [ja-JP](https://github.com/Silent-Studio-CN/SilentStudio-ProjectList/tree/main/ja-JP) · 日本語 (日本)
+- [ru-RU](https://github.com/Silent-Studio-CN/SilentStudio-ProjectList/tree/main/ru-RU) · Русский (Россия)
 
 </details>
 

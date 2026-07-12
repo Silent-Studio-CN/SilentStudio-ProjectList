@@ -1,6 +1,14 @@
 # SilentStudio-ProjectList
 
-> [English Version]（URL待填写）
+> We offer multilingual support. Below are the languages that have been translated.
+> We apologize for the languages that are not yet supported.
+
+<details>
+<summary>🌐 已支持语言 | Supported Languages</summary>
+
+- [en_US](https://github.com/Silent-Studio-CN/SilentStudio-ProjectList/tree/main/en_US) · English (US)
+
+</details>
 
 SilentStudio 公开项目列表、简介与索引
 

@@ -19,7 +19,7 @@ SilentStudio 公开项目列表、简介与索引
 
 | 项目名称 | 技术栈 | 状态 | 简介 |
 |----------|--------|------|------|
-| [SlimeMold v0.3.1](https://github.com/Silent-Studio-CN/SlimeMold) | Python 3.10+ | 已发布 | 黏菌启发的轻量级路径规划库（BFS + 加权概率爬行）|
+| [SlimeMold](https://github.com/Silent-Studio-CN/SlimeMold) | Python 3.10+ | 已发布 | 黏菌启发的轻量级路径规划库（BFS + 加权概率爬行）|
 
 
 ## 安全政策
